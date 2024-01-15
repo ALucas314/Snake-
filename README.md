@@ -29,7 +29,7 @@ Basicamente o projeto foi capaz de realizar as seguintes tarefas:
 - [x] Contador de pontos 2
 - [x] Jogo rodando via terminal 3
       
-<img src="Snake-terminal/PYTHON.png" alt="css3" width="400" height="500"/>
+<img src="Snake-terminal/PYTHON.png" alt="css3" width="500" height="400"/>
 
 ## 🚀 Para rodar o jogo via terminal verifique se o Python está instalado na sua distro!
 
