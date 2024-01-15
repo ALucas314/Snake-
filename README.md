@@ -38,7 +38,7 @@ Basicamente o projeto foi capaz de realizar as seguintes tarefas:
 ```
 sudo pacman -S python-curses
 ```
-# Depois de instalara para rodar o game via terminal basta digitar o seguinte comando:
+# Depois de instalar a para rodar o game via terminal basta digitar o seguinte comando:
 ```
 python snake.py
 ```
